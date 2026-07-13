@@ -146,5 +146,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Tristan Cravello
-Built as a full-stack capstone project focused on real-world classroom workflows.
+V.N
+Built as a full-stack project focused on real-world classroom workflows.

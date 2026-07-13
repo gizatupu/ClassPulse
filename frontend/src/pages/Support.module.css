@@ -1,0 +1,37 @@
+/* frontend/src/pages/Support.module.css */
+
+.pageContainer {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+    color: #374151;
+}
+
+.pageContainer h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #111827;
+}
+
+.pageContainer h2 {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    color: #111827;
+}
+
+.pageContainer h3 {
+    font-size: 1.1rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+}
+
+.pageContainer p {
+    margin-bottom: 1rem;
+}
+
+.pageContainer h3 + p {
+    margin-bottom: 1.25rem;
+}
